@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CHJoqjS33k4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria\\CODIGOS\\DIO\\moduloTestes\\blindandoCodigo-TDD-teste-unitarios\\blindando_codigo_com_TDD_e_testes_unitarios-main\\blindando_codigo_com_TDD_e_testes_unitarios-main\\projeto\\projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\bin\Debug\net6.0\projeto.exe
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\bin\Debug\net6.0\projeto.deps.json
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\bin\Debug\net6.0\projeto.dll
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\bin\Debug\net6.0\projeto.pdb
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\obj\Debug\net6.0\projeto.dll
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\obj\Debug\net6.0\projeto.pdb
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\jeans\Documentos\DIO\.NET\Blindando_Codigo_com_TDD_e_Testes_Unitarios\projeto\obj\Debug\net6.0\ref\projeto.dll
